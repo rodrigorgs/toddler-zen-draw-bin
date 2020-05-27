@@ -1,5 +1,5 @@
 { "frames": {
-   "drawings 0.ase": {
+   "boat": {
     "frame": { "x": 0, "y": 0, "w": 20, "h": 10 },
     "rotated": false,
     "trimmed": false,
@@ -7,7 +7,7 @@
     "sourceSize": { "w": 20, "h": 10 },
     "duration": 100
    },
-   "drawings 1.ase": {
+   "house": {
     "frame": { "x": 20, "y": 0, "w": 20, "h": 10 },
     "rotated": false,
     "trimmed": false,
@@ -15,8 +15,176 @@
     "sourceSize": { "w": 20, "h": 10 },
     "duration": 100
    },
-   "drawings 2.ase": {
+   "rainbow": {
     "frame": { "x": 40, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "fields": {
+    "frame": { "x": 60, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "happy": {
+    "frame": { "x": 80, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "circle-triangle": {
+    "frame": { "x": 100, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "i-love-you": {
+    "frame": { "x": 120, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "cross": {
+    "frame": { "x": 140, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "checkers": {
+    "frame": { "x": 160, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "squares": {
+    "frame": { "x": 180, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "forest": {
+    "frame": { "x": 200, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "hugo": {
+    "frame": { "x": 220, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "stella": {
+    "frame": { "x": 240, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "elis": {
+    "frame": { "x": 260, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "car": {
+    "frame": { "x": 280, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "elephant": {
+    "frame": { "x": 300, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "01234": {
+    "frame": { "x": 320, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "56789": {
+    "frame": { "x": 340, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "abcde": {
+    "frame": { "x": 360, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "fghij": {
+    "frame": { "x": 380, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "klmn": {
+    "frame": { "x": 400, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "opqrs": {
+    "frame": { "x": 420, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "tuv": {
+    "frame": { "x": 440, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "wxyz": {
+    "frame": { "x": 460, "y": 0, "w": 20, "h": 10 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
@@ -29,12 +197,33 @@
   "version": "1.2.18",
   "image": "drawings.png",
   "format": "I8",
-  "size": { "w": 60, "h": 10 },
+  "size": { "w": 480, "h": 10 },
   "scale": "1",
-  "frameTags": [
-   { "name": "boat", "from": 0, "to": 0, "direction": "forward" },
-   { "name": "hugo", "from": 1, "to": 2, "direction": "forward" },
-   { "name": "circle", "from": 2, "to": 2, "direction": "forward" }
+  "layers": [
+   { "name": "boat", "opacity": 255, "blendMode": "normal" },
+   { "name": "house", "opacity": 255, "blendMode": "normal" },
+   { "name": "rainbow", "opacity": 255, "blendMode": "normal" },
+   { "name": "fields", "opacity": 255, "blendMode": "normal" },
+   { "name": "happy", "opacity": 255, "blendMode": "normal" },
+   { "name": "circle-triangle", "opacity": 255, "blendMode": "normal" },
+   { "name": "i-love-you", "opacity": 255, "blendMode": "normal" },
+   { "name": "cross", "opacity": 255, "blendMode": "normal" },
+   { "name": "checkers", "opacity": 255, "blendMode": "normal" },
+   { "name": "squares", "opacity": 255, "blendMode": "normal" },
+   { "name": "forest", "opacity": 255, "blendMode": "normal" },
+   { "name": "hugo", "opacity": 255, "blendMode": "normal" },
+   { "name": "stella", "opacity": 255, "blendMode": "normal" },
+   { "name": "elis", "opacity": 255, "blendMode": "normal" },
+   { "name": "car", "opacity": 255, "blendMode": "normal" },
+   { "name": "elephant", "opacity": 255, "blendMode": "normal" },
+   { "name": "01234", "opacity": 255, "blendMode": "normal" },
+   { "name": "56789", "opacity": 255, "blendMode": "normal" },
+   { "name": "abcde", "opacity": 255, "blendMode": "normal" },
+   { "name": "fghij", "opacity": 255, "blendMode": "normal" },
+   { "name": "klmn", "opacity": 255, "blendMode": "normal" },
+   { "name": "opqrs", "opacity": 255, "blendMode": "normal" },
+   { "name": "tuv", "opacity": 255, "blendMode": "normal" },
+   { "name": "wxyz", "opacity": 255, "blendMode": "normal" }
   ]
  }
 }
