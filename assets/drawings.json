@@ -1,0 +1,40 @@
+{ "frames": {
+   "drawings 0.ase": {
+    "frame": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "drawings 1.ase": {
+    "frame": { "x": 20, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "drawings 2.ase": {
+    "frame": { "x": 40, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.18",
+  "image": "drawings.png",
+  "format": "I8",
+  "size": { "w": 60, "h": 10 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "boat", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "hugo", "from": 1, "to": 2, "direction": "forward" },
+   { "name": "circle", "from": 2, "to": 2, "direction": "forward" }
+  ]
+ }
+}
