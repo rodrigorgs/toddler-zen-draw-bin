@@ -190,6 +190,22 @@
     "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
     "sourceSize": { "w": 20, "h": 10 },
     "duration": 100
+   },
+   "saturn-moon": {
+    "frame": { "x": 480, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
+   },
+   "ligia": {
+    "frame": { "x": 500, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
    }
  },
  "meta": {
@@ -197,7 +213,7 @@
   "version": "1.2.18",
   "image": "drawings.png",
   "format": "I8",
-  "size": { "w": 480, "h": 10 },
+  "size": { "w": 520, "h": 10 },
   "scale": "1",
   "layers": [
    { "name": "boat", "opacity": 255, "blendMode": "normal" },
@@ -223,7 +239,9 @@
    { "name": "klmn", "opacity": 255, "blendMode": "normal" },
    { "name": "opqrs", "opacity": 255, "blendMode": "normal" },
    { "name": "tuv", "opacity": 255, "blendMode": "normal" },
-   { "name": "wxyz", "opacity": 255, "blendMode": "normal" }
+   { "name": "wxyz", "opacity": 255, "blendMode": "normal" },
+   { "name": "saturn-moon", "opacity": 255, "blendMode": "normal" },
+   { "name": "ligia", "opacity": 255, "blendMode": "normal" }
   ]
  }
 }
