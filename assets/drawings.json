@@ -206,6 +206,14 @@
     "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
     "sourceSize": { "w": 20, "h": 10 },
     "duration": 100
+   },
+   "renato": {
+    "frame": { "x": 520, "y": 0, "w": 20, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 10 },
+    "sourceSize": { "w": 20, "h": 10 },
+    "duration": 100
    }
  },
  "meta": {
@@ -213,7 +221,7 @@
   "version": "1.2.18",
   "image": "drawings.png",
   "format": "I8",
-  "size": { "w": 520, "h": 10 },
+  "size": { "w": 540, "h": 10 },
   "scale": "1",
   "layers": [
    { "name": "boat", "opacity": 255, "blendMode": "normal" },
@@ -241,7 +249,8 @@
    { "name": "tuv", "opacity": 255, "blendMode": "normal" },
    { "name": "wxyz", "opacity": 255, "blendMode": "normal" },
    { "name": "saturn-moon", "opacity": 255, "blendMode": "normal" },
-   { "name": "ligia", "opacity": 255, "blendMode": "normal" }
+   { "name": "ligia", "opacity": 255, "blendMode": "normal" },
+   { "name": "renato", "opacity": 255, "blendMode": "normal" }
   ]
  }
 }
